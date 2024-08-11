@@ -6,7 +6,7 @@ class Person{
     this.firstName = 'Nima'
     this.lastName = 'Zamani'
     this.age = new Date().getFullYear() - 2003
-    
+    this.skills = ['Html', 'CSS', 'Javascript', 'Tailwind', 'SASS', 'React']
   }
 }
 ```
