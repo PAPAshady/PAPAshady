@@ -1,5 +1,16 @@
 # Hello, I’m Nima Zamani 👋
 
+```javascript
+class Person{
+  constructor(){
+    this.firstName = 'Nima'
+    this.lastName = 'Zamani'
+    this.age = new Date().getFullYear() - 2003
+    
+  }
+}
+```
+
 Welcome to my GitHub profile! I’m a passionate Front-End Developer from Isfahan, Iran, with a love for turning ideas into beautiful, interactive web experiences. At 21, I’m on a journey to create stunning websites and applications that users love to interact with.
 
 ## 🌟 A Bit About Me
@@ -34,3 +45,6 @@ Feel free to drop me a line if you have any questions or just want to say hello:
 - **Email**: [zamani.nima18@gmail.com](mailto:zamani.nima18@gmail.com)
 
 Thanks for visiting my profile! I’m excited to connect and see how we can collaborate on amazing projects together.
+## 📊 You can see my status here : 
+
+<img src="https://github-readme-stats.vercel.app/api?username=papashady&show_icons=true&theme=synthwave"/>
