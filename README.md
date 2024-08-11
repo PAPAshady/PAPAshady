@@ -30,9 +30,8 @@ I specialize in building engaging, responsive web interfaces using a mix of tech
 ![React](https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🚀 Some Projects I’m Proud Of
-- **[Project 1](#)**: A brief look at a project that challenged me and pushed my skills further. 
-- **[Project 2](#)**: Another project I’m excited about, showcasing what I can do with modern web technologies.
-- **[Project 3](#)**: A project that highlights my creativity and problem-solving abilities.
+- **[Muvi](https://github.com/papashady/muvi)**: A brief look at a project that challenged me and pushed my skills further. 
+- **[Muvi-CMS](https://github.com/papashady/Muvi-cms)**: Another project I’m excited about, showcasing what I can do with modern web technologies.
 
 ## 📬 Reach Out
 Feel free to drop me a line if you have any questions or just want to say hello:
