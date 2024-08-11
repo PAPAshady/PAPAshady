@@ -34,12 +34,6 @@ I specialize in building engaging, responsive web interfaces using a mix of tech
 - **[Project 2](#)**: Another project I’m excited about, showcasing what I can do with modern web technologies.
 - **[Project 3](#)**: A project that highlights my creativity and problem-solving abilities.
 
-## 🌐 Let’s Connect!
-I’d love to hear from you, whether you’re interested in collaborating, have questions, or just want to chat about web development. You can find me here:
-- **Portfolio**: [Check out my work](#) (Coming soon! Stay tuned for more)
-- **LinkedIn**: [Connect with me](#) (Let’s network and discuss opportunities)
-- **Twitter**: [Follow me](#) (Optional; add if you’re active on Twitter)
-
 ## 📬 Reach Out
 Feel free to drop me a line if you have any questions or just want to say hello:
 - **Email**: [zamani.nima18@gmail.com](mailto:zamani.nima18@gmail.com)
