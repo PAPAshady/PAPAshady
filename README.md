@@ -33,6 +33,7 @@ I specialize in building engaging, responsive web interfaces using a mix of tech
 ## 🚀 Some Projects I’m Proud Of
 - **[Muvi](https://github.com/papashady/muvi)**: Muvi is a online video player website for watching your favorite series anywhere, anytime. 
 - **[Muvi-CMS](https://github.com/papashady/Muvi-cms)**:  A CMS for Muvi project that admins can control the website's contents.
+- **[Space-Travel](https://github.com/papashady/space-travel)**: A multi-page, responsive website that allows users to explore the wonders of space travel.
 
 ## 📬 Reach Out
 Feel free to drop me a line if you have any questions or just want to say hello:
