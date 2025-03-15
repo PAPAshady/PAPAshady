@@ -39,7 +39,7 @@ I specialize in building engaging, responsive web interfaces using a mix of tech
 Feel free to drop me a line if you have any questions or just want to say hello:
 - **Email**: [zamani.nima18@gmail.com](mailto:zamani.nima18@gmail.com)
 - **Telegram**: [@PAPAshady](https://t.me/papashady)
-- **Instagram** [@\_nima.exe\_](https://www.instagram.com/_nima.exe_?igsh=b2Ziem9sb2E3anNk)
+- **Instagram** [@nima..jsx](https://www.instagram.com/_nima.exe_?igsh=b2Ziem9sb2E3anNk)
 
 Thanks for visiting my profile! I’m excited to connect and see how we can collaborate on amazing projects together.
 ## 📊 You can see my status here : 
