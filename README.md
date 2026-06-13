@@ -37,8 +37,8 @@ I specialize in building scalable and dynamic web interfaces. Right now, I’m w
 
 ## 🚀 Some Projects I’m Proud Of
 - **[Account Pro](https://github.com/papashady/account-pro)**: A premium account management platform with a focus on clean UI, authentication, and user experience. 
-- **[VioTune Music App](https://github.com/papashady/Muvi-cms)**:  A modern music streaming application with playlists, playback features, and a smooth user interface.
-- **[VioTune Dashboard](https://github.com/papashady/space-travel)**: A custom admin dashboard for managing music content, users, and application data efficiently.
+- **[VioTune Music App](https://github.com/papashady/music-app)**:  A modern music streaming application with playlists, playback features, and a smooth user interface.
+- **[VioTune Dashboard](https://github.com/papashady/viotune-dashboard)**: A custom admin dashboard for managing music content, users, and application data efficiently.
 
 ## 📬 Reach Out
 Feel free to drop me a line if you have any questions or just want to say hello:
